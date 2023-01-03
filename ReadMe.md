@@ -6,7 +6,7 @@ This firmware is a fork of https://github.com/ClaraCrazy/Flipper-Xtreme code wic
 <br>
 <h2 align="center">This is a "clean" aka SFW Fork</h2>
 
-I'm not a professional coder not do i claim to be, but Clara's work is good, but I love the cute dolphin in the orgional firmware.
+I'm not a professional coder not do i claim to be: Clara's work is good, but I love the cute dolphin in the original firmware.
 
 The RogueMaster stuff is a mess and then the whole paywall in Pateron....
 
